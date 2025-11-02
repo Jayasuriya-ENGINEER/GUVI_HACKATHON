@@ -31,5 +31,26 @@ To make high-protein, nutrient-balanced eating simple and accessible for fitness
 
 ---
 
-## 📂 Project Structure
+## Screenshots
+
+Screenshots will be added in the LINK_TO_WORK -> wireframe_work.
+
+---
+
+##  Future Enhancements
+
+- AI-based meal planner & recommendation engine  
+- Calorie & macro tracking system  
+- Subscription-based ordering  
+- Fitness app integration (Google Fit / Apple Health)
+
+---
+
+##  Contact
+
+For collaboration or suggestions, reach out via GitHub.
+
+---
+
+
 
